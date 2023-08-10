@@ -63,17 +63,3 @@ function get_user_info($con, $userID){
     $row = mysqli_fetch_array($result);
     return empty($row) ? false : $row;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
