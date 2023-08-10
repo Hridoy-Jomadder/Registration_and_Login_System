@@ -36,6 +36,7 @@ if(empty($error)){
     }else{
         print "You are not a member please register!";
     }
+    
 
 }else{
     echo "Please Fill out email and password to login!";
