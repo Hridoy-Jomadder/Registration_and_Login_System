@@ -59,7 +59,6 @@ include "helper.php";
 </section>
 <!-- #registration area -->
 
-
 <?php
 // footer.php
 include ('footer.php');
