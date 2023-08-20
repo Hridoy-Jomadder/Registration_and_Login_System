@@ -30,6 +30,7 @@
                         <input type="file" form="reg-form" class="form-control-file" name="profileUpload" id="upload-profile">
                     </div>
                 </div>
+                
                 <div class="d-flex justify-content-center">
                     <form action="register.php" method="post" enctype="multipart/form-data" id="reg-form">
                         <div class="form-row">
