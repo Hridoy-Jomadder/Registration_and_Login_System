@@ -19,6 +19,7 @@
                     <p class="p-1 m-0 font-ubuntu text-black-50">Register and enjoy additional features</p>
                     <span class="font-ubuntu text-black-50">I already have <a href="login.php">Login</a></span>
                 </div>
+                
                 <div class="upload-profile-image d-flex justify-content-center pb-5">
                     <div class="text-center">
                         <div class="d-flex justify-content-center">
