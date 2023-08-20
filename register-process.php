@@ -70,14 +70,3 @@ if(empty($error)){
 }else{
     echo 'not validate';
 }
-
-
-
-
-
-
-
-
-
-
-
